@@ -18,7 +18,7 @@ just guidelines so use your best judgement and feel free to propsose changes in 
   
 ## Code of Conduct
 
-This project and everyone participating in it must follow the [HOBY NY East Code of Conduct](code_of_conduct.md). By 
+This project and everyone participating in it must follow the [HOBY NY East Code of Conduct](CODE_OF_CONDUCT.md). By 
 participating, you are expected to uphold this code. Please report unacceptable behavior to 
 [hobynye@github.com](mailto:hobynye@github.com).
 
