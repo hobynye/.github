@@ -12,7 +12,7 @@ just guidelines so use your best judgement and feel free to propsose changes in 
 
 [How Can I Contribute?](#how-can-i-contribute)
   * [Reporting Bugs](#reporting-bugs)
-  * [Suggesting Enhancements](#suggesting-enhancments)
+  * [Suggesting Enhancements](#suggesting-enhancements)
   * [Your First Code Contribution](#your-first-code-contribution)
   * [Pull Requests](#pulls-requests)
   
